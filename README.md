@@ -1,0 +1,2 @@
+# firstREPO
+Pierwsze repozytorium :D
